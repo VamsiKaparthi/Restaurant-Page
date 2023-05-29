@@ -5,7 +5,7 @@ import paneer from './panner.jpg'
 import chips from './chips.jpg'
 import turkey from './turkey.jpg'
 import pizza from './veggie-pizza-square.jpeg'
-
+import './styleMenu.css';
 const menuGen = (generate)=>{
     console.log('hello')
     generate.innerHTML=`

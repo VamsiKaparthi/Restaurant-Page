@@ -2,7 +2,7 @@ import dining from './dining.jpg';
 import delivery from './delivery.jpg';
 import band from './band.jpg';
 import party from './party.jpg';
-
+import './styleServices.css';
 const serviceGen = (generate)=>{
     console.log('service')
     generate.innerHTML = `

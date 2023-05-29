@@ -1,4 +1,6 @@
 import burger from './burger.png'
+import './styleHome.css';
+import 'boxicons';
 const homeGen=(generate)=>{
     console.log('hi');
     generate.innerHTML=`

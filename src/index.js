@@ -1,10 +1,6 @@
-//images
 
-//css and other styles
-import './styleMenu.css';
-import './styleHome.css';
 import 'boxicons';
-import './styleServices.css';
+
 //functions
 import homeGen from './home';
 import menuGen from './menu'
