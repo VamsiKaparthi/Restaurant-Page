@@ -48,7 +48,7 @@ const menuGen = (generate)=>{
                         <div class="card">
                             <img src="${turkey}" alt="turkey" style="width:45%; height:auto;">
                             <div>
-                                <div class="item-title">Turkey Roll-ups</div>
+                                <div class="item-title">Turkey Spring Rolls</div>
                                 <div class="protein">Protein: 33.5g<br>Calories: 400</div>
                                 <div class="cost">10$</div>
                             </div>

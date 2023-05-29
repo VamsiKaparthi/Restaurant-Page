@@ -1,7 +1,6 @@
 import burger from './burger.png'
-const homeGen=()=>{
+const homeGen=(generate)=>{
     console.log('hi');
-    const generate = document.getElementById('generate');
     generate.innerHTML=`
         <div class="info">
             <div class="slogan">
