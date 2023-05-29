@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/VamsiKaparthi/Restaurant-Page#readme",
   "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
     "webpack": "^5.84.1",
     "webpack-cli": "^5.1.1"
+  },
+  "dependencies": {
+    "boxicons": "^2.1.4"
   }
 }

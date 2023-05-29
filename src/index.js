@@ -1,1 +1,2 @@
-console.log('ho')
+import './styleHome.css';
+import 'boxicons'
