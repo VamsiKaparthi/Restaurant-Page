@@ -5,6 +5,8 @@ body{
 }
 .header{
     display: flex;
+    
+    top: 0px;
     /* gap: 50%; */
     align-items: center;
     justify-content: space-between;
