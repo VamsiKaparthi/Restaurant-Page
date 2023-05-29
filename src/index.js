@@ -18,7 +18,11 @@ content.innerHTML=`<div class="header">
             <span id="home">Home</span>
             <span id="menu">Menu</span>
             <span id="services">Services</span>
-            <span id="team">Team</span>
+        </div>
+        <div class="social">
+            <box-icon type='logo' name='instagram' size='70%'></box-icon>
+            <box-icon name='phone' size='70%'></box-icon>
+            <box-icon type='logo' name='facebook-square' size='70%'></box-icon>
         </div>
     </div>
     <div id="generate"></div>`
