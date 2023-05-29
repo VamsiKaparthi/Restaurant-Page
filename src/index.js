@@ -26,7 +26,7 @@ content.innerHTML=`<div class="header">
 let generate = document.getElementById('generate');
 
 //By default generate Homepage Tab
-//homeGen(generate)
+homeGen(generate)
 
 //dynamically generate Homepage Tab
 let home = document.getElementById('home')

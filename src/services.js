@@ -5,7 +5,7 @@ import party from './party.jpg';
 
 const serviceGen = (generate)=>{
     console.log('service')
-    generate.innerHtml = `
+    generate.innerHTML = `
     <div style="color:#01705e; display: flex; justify-content: center; font-size: max(70px,5vw);">Our Multiple Services</div>
     <div style="display: flex;font-weight:550; font-size:max(20px,1vw); color: rgb(4, 29, 4); text-align: center;margin-left: 10%; margin-right: 10%; margin-top: 2%;">Discover our wide range of personalized services designed to support your health and fitness journey. From customized meal plans tailored to your dietary needs to expert nutrition guidance and fitness consultations, our team of professionals is dedicated to helping you achieve your goals. Experience the power of nourishing your body with wholesome, flavorful meals and let us be your partner in embracing a healthier lifestyle.</div>
     <div class="service">
