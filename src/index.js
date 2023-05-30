@@ -16,9 +16,9 @@ content.innerHTML=`<div class="header">
             <span id="services">Services</span>
         </div>
         <div class="social">
-            <box-icon type='logo' name='instagram' size='70%'></box-icon>
-            <box-icon name='phone' size='70%'></box-icon>
-            <box-icon type='logo' name='facebook-square' size='70%'></box-icon>
+            <box-icon type='logo' name='instagram' size='min(40px,90%)'></box-icon>
+            <box-icon name='phone' size='min(40px,90%)'></box-icon>
+            <box-icon type='logo' name='facebook-square' size='min(40px,90%)'></box-icon>
         </div>
     </div>
     <div id="generate"></div>`

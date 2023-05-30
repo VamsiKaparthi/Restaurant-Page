@@ -95,7 +95,7 @@ box-icon{
 }
 .social{
     display: flex;
-    width: 20%;
+    width: 10%;
     justify-content: center;
 }
 .social>box-icon{
