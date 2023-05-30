@@ -7,8 +7,8 @@ This project was completed for The Odin Project Javascript Restaurant Page Assig
 - Vanilla JS
 - HTML5
 - CSS3
-- webpack
-- 
+- Webpack
+
 ## Live Demo
 
 (https://vamsikaparthi.github.io/Restaurant-Page/)
