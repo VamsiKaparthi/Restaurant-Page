@@ -1,7 +1,7 @@
 .service{
     display: grid;
-    height: 65vh;
-    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    height: 60vh;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     justify-content: center;
     align-items: start;
     margin-top: 5%;
