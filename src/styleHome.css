@@ -1,16 +1,14 @@
 body{
     background-color: #FEFEDF;
-    background-color: aqua;
     font-family: sans-serif;
-    margin: 20px;
+    margin: 15px;
 }
 .header{
     display: flex;
     top: 0px;
-    /* gap: 50%; */
     align-items: center;
     justify-content: space-between;
-    font-size: min(30px,2vw);
+    font-size: min(20px,2vw);
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 20px;
@@ -18,21 +16,21 @@ body{
 }
 .nav{
     display: grid;
-    grid-template-columns: repeat(3,minmax(60px,150px));
+    grid-template-columns: repeat(3,minmax(45px,112.5px));
     text-align: center;
     
 }
 .logo{
     display: flex;
     align-items: center;
-    font-size: 50px;
+    font-size: 37.5px;
     gap: 5px;
     font-weight: 600;
     /* margin-left: 5%; */
 }
 box-icon{
-    height: 90px;
-    width: 90px;
+    height: 67.5px;
+    width: 67.5px;
 }
 .nav>span:hover{
     color:#015e4e;
@@ -44,6 +42,7 @@ box-icon{
     padding-left: 5%;
     padding-right: 5%;
     gap:max(15px,5%);
+    margin-top: min(10px,2%);
 }
 .slogan{
     color:#01705e;
@@ -66,7 +65,7 @@ box-icon{
     font-weight: 600;
     flex-direction: column;
     gap: 10px; 
-    height: min(50vw,1050px);
+    height: min(50vw,787.5px);
 }
 
 .baguette{

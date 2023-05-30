@@ -7,11 +7,11 @@ const homeGen=(generate)=>{
         <div class="info">
             <div class="slogan">
                 <span>Eat Train Conquer. Fuel your victory.</span>
-                <span style="color:black;font-size: max(20px,1vw); font-weight: 540;">Welcome to EatFit, where fitness meets culinary delight. Enjoy a menu crafted with the perfect blend of nourishing ingredients and mouthwatering flavors.</span>
+                <span style="color:black;font-size: max(15px,1vw); font-weight: 550;">Welcome to EatFit, where fitness meets culinary delight. Enjoy a menu crafted with the perfect blend of nourishing ingredients and mouthwatering flavors.</span>
                 <span class="reviews">
                     <span class="review-content">
-                        <span style="font-size: 3vw;">The Taste Tribunal</span>
-                        <span style="font-size: max(1vw,20px); font-weight: 400;">"A harmonious fusion of fitness and flavors, this gym restaurant delights with nourishing cuisine and a vibrant ambiance, leaving patrons energized and satisfied."</span>
+                        <span style="font-size: 2.5vw;">The Taste Tribunal</span>
+                        <span style="font-size: max(1vw,15px); font-weight: 400;">"A harmonious fusion of fitness and flavors, this gym restaurant delights with nourishing cuisine and a vibrant ambiance, leaving patrons energized and satisfied."</span>
                     </span>
                     <box-icon name='news' ></box-icon> 
                     
